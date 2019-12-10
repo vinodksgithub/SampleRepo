@@ -1,0 +1,19 @@
+Hi there how are you doing
+.
+.
+kjhgjhfgjg ------------------------------------- again
+ 
+one more commit
+Try stash feature
+
+Edit first file 
+
+edit first file from remote
+
+editing from remote agaain for stash
+
+<<<<<<< HEAD
+local edit
+=======
+remote edit
+>>>>>>> fc9298a89ed7d296ecdd4086a72eed77f7dd75e9
