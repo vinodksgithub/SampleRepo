@@ -13,3 +13,4 @@ edit first file from remote
 editing from remote agaain for stash
 
 local edit
+remote edit
