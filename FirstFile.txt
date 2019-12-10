@@ -1,16 +1,11 @@
-Hi there how are you doing
-.
-.
-kjhgjhfgjg ------------------------------------- again
- 
-one more commit
-Try stash feature
+hi this is sample file
 
-Edit first file 
+random edit - merge
 
-edit first file from remote
+asdfasdf 
 
-editing from remote agaain for stash
+editing to check pull request actions
 
-local edit
-remote edit
+edit second file
+
+random edit - merge1
