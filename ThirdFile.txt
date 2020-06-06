@@ -4,6 +4,8 @@ function subtract{}
 
 funciton multiply{}
 
-function divide{}
+function divide{
+some code
+}
 
 function exp{}
