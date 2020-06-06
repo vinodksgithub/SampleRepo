@@ -6,8 +6,9 @@ function subtract{}
 
 funciton multiply{}
 
-function divide{
-some code
-}
-
 function exp{}
+
+
+function divide{
+local code
+}
