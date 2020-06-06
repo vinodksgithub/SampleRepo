@@ -1,11 +1,15 @@
 function local1{}
 
+
 function local2{
+
 local changes1
 local changes2
 local changes3
+remote changes1
+remote changes2
+remote changes3
 }
-
 
 
 function local3{}
