@@ -1,7 +1,9 @@
 function local1{}
 
 function local2{
-local changes}
+local changes
+remote changes
+}
 
 function local3{}
 
