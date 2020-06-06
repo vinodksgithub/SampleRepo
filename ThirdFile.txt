@@ -3,6 +3,9 @@ function local1{}
 function local2{
 local changes
 remote changes
+
+2nd local change
+
 }
 
 function local3{}
