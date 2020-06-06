@@ -1,6 +1,7 @@
 function local1{}
 
-function local2{}
+function local2{
+local changes}
 
 function local3{}
 
