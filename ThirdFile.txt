@@ -1,13 +1,15 @@
 function sum{}
 
-function sum1_remote()
+function subtract{
+remote
+}
 
-function subtract{}
+function divide{
+remote
+}
 
 funciton multiply{}
 
-function divide{
-some code
-}
+
 
 function exp{}
