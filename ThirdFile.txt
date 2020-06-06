@@ -9,8 +9,8 @@ function local3{}
 function local4{}
 
 function local2{
-local changes
-remote changes
-2nd local change
-2nd remote change
+remote changes1
+remote changes2
+remote changes3
+
 }
