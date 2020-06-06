@@ -1,19 +1,9 @@
-function local1{}
+function sum{}
 
+function subtract{}
 
-function local2{
+funciton multiply{}
 
-local changes1
-local changes2
-local changes3
-remote changes1
-remote changes2
-remote changes3
-}
+function divide{}
 
-
-function local3{}
-
-function local4{}
-
-
+function exp{}
