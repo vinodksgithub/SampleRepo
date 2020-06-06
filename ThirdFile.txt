@@ -1,9 +1,7 @@
-third file remote edit for merge
+function local1{}
 
-oyeeeljljljl
-Remote changes to  third file
-ljljljkl
-ijjjjjkkkk remote
-random edit - merge124_local changes
+function local2{}
 
-random edit - merge1
+function local3{}
+
+function local4{}
