@@ -1,5 +1,6 @@
 hi this is sample file
 
+random edit - merge
 
 asdfasdf 
 
@@ -7,3 +8,4 @@ editing to check pull request actions
 
 edit second file
 
+random edit - merge1

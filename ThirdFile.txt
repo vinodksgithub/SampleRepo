@@ -1,1 +1,15 @@
-oyeee
+function sum{}
+
+function sum1_remote()
+
+function subtract{
+remote
+}
+
+function divide{
+remote
+}
+
+funciton multiply{}
+
+function exp{}
