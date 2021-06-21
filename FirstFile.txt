@@ -1,10 +1,23 @@
+Hi there how are you doing
+.
+.
+kjhgjhfgjg ------------------------------------- again
+
+one more commit
+Try stash feature
+ this is for branch 3
+Edit first file 
+ this is for branch 3
+edit first file from remote
+=======
 hi this is sample file
 
 random edit - merge
 
 asdfasdf 
 
-editing to check pull request actions
+
+
 
 edit second file
 
