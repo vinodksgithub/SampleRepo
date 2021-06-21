@@ -2,11 +2,11 @@ Hi there how are you doing
 .
 .
 kjhgjhfgjg ------------------------------------- again
- 
+adding sample line ------first edit 
 one more commit
 Try stash feature
-
+second edit 
 Edit first file 
-
+adding sample line  --- third edit
 edit first file from remote
 
